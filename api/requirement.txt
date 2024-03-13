@@ -1,0 +1,6 @@
+Flask==2.0.2
+Flask-RESTx==0.7.1
+Flask-CORS==3.0.10
+psutil==5.8.0
+pymongo==3.12.0
+requests==2.26.0
