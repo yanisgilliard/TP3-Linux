@@ -17,7 +17,6 @@ docker-compose up
 ```bash
 python3 main.py
 ```
-L'API sera désormais accessible à l'adresse http://127.0.0.1:3000.
 
 ## Utilisation de l'API
 Vous pouvez explorer et tester les différentes fonctionnalités de l'API en utilisant Swagger. Accédez à http://127.0.0.1:3000 dans votre navigateur pour accéder à l'interface Swagger.
